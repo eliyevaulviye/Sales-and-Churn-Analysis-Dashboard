@@ -1,1 +1,1 @@
-# 
+This Power BI dashboard presents a comprehensive analysis of sales performance and customer churn trends. The goal of this project is to identify key drivers of churn and uncover actionable insights to improve retention and boost overall revenue.
